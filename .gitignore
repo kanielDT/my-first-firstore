@@ -1,0 +1,6 @@
+#we can ignore node_modules 
+node_modules
+.vscode
+
+#we need to protect your private key and our private key ID
+credentials.js
